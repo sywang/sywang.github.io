@@ -51,3 +51,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Header pages
+header_pages:
+  - research.md
+  - news.md
+  - publications.md
+  - about.markdown
+  - contact.md
